@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+#bigbox {
+    border: solid;
+    padding-left:20px ;
+    padding-top:0px ;
+    padding-right:20px ;
+    padding-bottom:0 ;
+    height: 450px;
+    width: 500px;
+}
+.div1 {
+    border: solid;
+    border-color: blue;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(187, 208, 248);
+}
+.div2 {
+    border: solid;
+    border-color: blue;
+    margin-top: 10px;
+    background-color: rgb(187, 208, 248);
+
+}
+h2 {
+    color: blue;
+    margin-left: 10px;
+}
+.line3 {
+    color: red;
+}
